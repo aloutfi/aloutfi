@@ -1,4 +1,4 @@
-### Hello there, I'm Andrew 👋
+### Hello there, I'm Andrew (he/him/his) 👋
 
 I'm a Software Engineer currently based in Minneapolis, Minnesota with specialization in python and *nix technologies. I’ve worked in web, IoT, cloud, DevOps, and Machine Learning problem domains. 
 
