@@ -3,24 +3,8 @@
 I'm a Software Engineer currently based in Minneapolis, Minnesota with specialization in python and *nix technologies. I’ve worked in web, IoT, cloud, DevOps, and Machine Learning problem domains. 
 
 - 🔭 I’m currently working on making a blog on GitHub. I have a lot of opinions, and would like to share them. More to come on this soon. :wink: 
-- 🌱 I’m currently learning Software Architecture
-- 🤔 I’m looking for help with: becoming more proficent with GitHub Actions.
-- 💬 Ask me about: anything. Either I know the answer or I'll have a good idea about how to find it.
+- 🌱 I’m currently learning Google Cloud Platform and Kubernetes
+- 🤔 I’m looking for help with: Learning more about Kubernetes
+- 💬 Ask me about: Software Architecture is pretty interesting to me. That said, ask me about anything. Either I know the answer or I'll have a good idea about how to find it.
 - ⚡ Fun fact: I graduated with a Master's in Software Engineering last May.
 
-
-
-<!--
-**aloutfi/aloutfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
