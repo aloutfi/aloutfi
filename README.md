@@ -1,6 +1,6 @@
 ### Hello there, I'm Andrew (he/him/his) 👋
 
-I'm a Software Engineer currently based in Columbia, Missouri with specialization in python and *nix technologies. I’ve worked in web, IoT, cloud, DevOps, and Machine Learning problem domains. 
+I'm a Software Engineer currently based in Columbia, Missouri, with specialization in python and *nix technologies. I’ve worked in web, IoT, cloud, DevOps, and Machine Learning problem domains. 
 
 - 🔭 I’m currently working on making a blog on GitHub. I have a lot of opinions, and would like to share them. More to come on this soon. :wink: 
 - 🌱 I’m currently learning Google Cloud Platform and Kubernetes
