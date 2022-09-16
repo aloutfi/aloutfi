@@ -1,4 +1,4 @@
-### Hello there, I'm Andrew (he/him/his) 👋
+### Hello there, I'm Andrew (he/they) 👋
 
 I'm a Software Engineer currently based in Columbia, Missouri, with specialization in python and *nix technologies. I’ve worked in web, IoT, cloud, DevOps, and Machine Learning problem domains. 
 
