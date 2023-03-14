@@ -6,4 +6,4 @@ I'm a Software Engineer currently based in Columbia, Missouri, with specializati
 - 🌱 I’m currently learning Google Cloud Platform and Kubernetes
 - 🤔 I’m looking for help with: Learning more about Kubernetes
 - 💬 Ask me about: Software Architecture is pretty interesting to me. That said, ask me about anything. Either I know the answer or I'll have a good idea about how to find it.
-- ⚡ Fun fact: I graduated with a Master's in Software Engineering last May.
+- ⚡ Fun fact: I graduated with a Master's in Software Engineering in May of 2021.
