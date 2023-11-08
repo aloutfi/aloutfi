@@ -10,4 +10,4 @@ In my free time, I enjoy traveling, hiking, mountain biking, and building full-s
 
 ## Blog Posts
 
-- [Creating Culture Around Upfront Automated Dependency Resolution](https://github.com/aloutfi/blog/blob/main/posts/2023-10-15.md)
+- [Automated Dependency Resolution (part 1)](https://github.com/aloutfi/blog/blob/main/posts/2023-10-15.md)
