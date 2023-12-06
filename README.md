@@ -1,15 +1,9 @@
-# Hello, folx! :wave:
+# Welcome to my GitHub, folx! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Andrew (he/they) 👨‍💻, a Senior Software Engineer and Architect who is passionate about crafting cutting-edge, distributed, scalable, and cloud-native data-intensive systems. 🌐
+I'm Andrew (he/they) 👨‍💻, a Senior Software Engineer and Architect who is passionate about building cutting-edge, distributed, scalable, and cloud-native data-intensive systems.
 
-🚀 My technical expertise spans a broad spectrum, encompassing Python, Kubernetes, GitHub Actions, Terraform, GCP, and AWS, to name a few. I thrive in diverse paradigms such as web development, IoT, cloud computing, DevOps, and machine learning.
+:rocket: Since 2016, I've delved into various problem domains, from Transportation Research to Pharmacogenomics and B2B2C logistics. Throughout this journey, I've had the privilege of wearing many hats, including: people manager, project manager, lead engineer, and mentor. This has allowed me to gain a holistic perspective of the ever-evolving technology landscape and development lifecycle.
 
-🛠️ Since 2016, I've delved into various problem domains, from Transportation Research to Pharmacogenomics and B2B2C logistics. Throughout my journey, I've worn many hats, including people manager, project manager, lead engineer, and mentor. This has allowed me to gain a holistic perspective of the ever-evolving technology landscape and development lifecycle.
+🛠️ My technical depth spans a broad spectrum, encompassing Python, Kubernetes, GitHub Actions, Terraform, GCP, and AWS, to name a few. I've used these tools in web development, IoT, cloud computing, DevOps, and machine learning capacities.
 
-🌟 Beyond my professional endeavors, I enjoy exploring new horizons through travel, embracing the great outdoors with hiking and mountain biking, and embarking on creative adventures by building full-stack web applications. You can catch me collaborating with my partner, @synesdeija, on these exciting projects. 🌄🚴‍♂️🌆
-
-
-
-## Blog Posts
-
-- [Automated Dependency Resolution (part 1)](https://github.com/aloutfi/blog/blob/main/posts/2023-10-15.md)
+🌟 Beyond my professional endeavors, I enjoy chasing the next big thing and playing Old School Runescape.
