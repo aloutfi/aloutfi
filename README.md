@@ -6,4 +6,4 @@ I'm Andrew (he/they) 👨‍💻, a Senior Software Engineer and Architect who i
 
 🛠️ My technical depth spans a broad spectrum, encompassing Python, Kubernetes, GitHub Actions, Terraform, GCP, and AWS, to name a few. I've used these tools in web development, IoT, cloud computing, DevOps, and machine learning capacities.
 
-🌟 Beyond my professional endeavors, I enjoy chasing the next big thing and playing Old School Runescape.
+🌟 Beyond my professional endeavors, I enjoy chasing the next big thing, playing Old School Runescape, and going to music festivals
